@@ -2,7 +2,6 @@
 * code snippets for the rpi pico 1 and 2
 * uses the vs code extention to generate / pull code from
 * dumped here for more centeralized repo
-
 */
 
 
