@@ -39,6 +39,6 @@ printf("testing \n");
 //here are some values in c we can print a certain amount of decimal points by using a .# on the %f symbol like so $.2f only 2 decimal print whole number
 float pi = 3.1419;
 int number = 12345;
-printf("hello world %d, %f.4 \n", number, pi);
+printf("hello world!, %d, %f.4 \n", number, pi);
 
 // ===================================================================
